@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "username": "Omar", "email": "odawah8@gmail.com", "password": "lifesucks" },
+    { "username": "Sayed", "email": "sayed@gmail.com", "password": "sayed" },
+    { "username": "Youssef", "email": "youssef@gmail.com", "password": "youssef" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
